@@ -36,8 +36,8 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 3. Start chatting! Usually the conversation goes something like this
   1. 您好
   2. [Paste link]
-  3. 我想做[your-board-size-in-cm and any other important details like number of layers]
-  !(screenshot-1)[https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ss1.PNG]
+  3. 我想做[your-board-size-in-cm and any other important details like number of layers]: 
+  !(screenshot-1)[https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ss1.png "Logo Title Text 1"]
   4. He will ask you to upload the PCB or Gerber files.
   5. He will also tell you how much it will cost. He might also instruct you to click on the 
   6. He might confirm the recipient address 
