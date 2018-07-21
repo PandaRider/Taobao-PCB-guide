@@ -1,4 +1,4 @@
-A short guide on buying electronics online from China.
+A walkthrough guide on buying electronics online from China. 
 
 ## Table of Contents
 
@@ -10,13 +10,15 @@ Table of contents:
   * [Buying](#Buying)
   * [Pro tips](#Pro tips)
   * [Claiming](#Claiming)
-* Improvements
-* Conclusion (w/credits)
+* [Improvements]()
+* [Conclusion](#Conclusion) (w/credits)
+  * [Motivation](#Motivation)
+
 
 ## Pre-requisites
 This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software. We'll use EagleCAD in this guide but it should be similar to other PCB design software that can generate Gerber files like KiCAD. For Altium users, you can simply use the .PcbDoc file.
 
-We'll also need a taobao + alipay account and aliwangwang installed. 
+We'll also need a taobao + alipay account and aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle)
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
@@ -84,4 +86,12 @@ In short, you need 2 screenshots.
 
 2. 
 
-Impro
+## Improvements
+
+## Conclusion
+
+### Motivation
+In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, both of which made harder in Singapore with it's small size and advanced economy. 
+
+It is a matter of making the best of what we have. 
+
