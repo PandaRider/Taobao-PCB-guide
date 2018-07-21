@@ -40,7 +40,7 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 |              | Chinese PCB house                 | PCB prototyping machine (LPKF)  |
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
-| Board Size   | 5 \* 5cm to 15 \* 15cm              |                                          |
+| Board Size   | 5 \* 5cm to 15 \* 15cm            |                                          |
 | Price        | ¥30 - ¥50 depending on board  |                                          |
 
 ### JLC PCB service
@@ -58,9 +58,12 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 
 
 1. Search `PCB 打样` (making). In general, choose the shop with the lowest price per piece and highest number of reviews/verified purchases.
+
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-1.png "Taobao Search 1")
 2. Click the small blue mascot at the most right side-bar with the phrase "和我联络". This will open up Aliwangwang 
+
 ![screenshot-3](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-2.png "Taobao search 2")
+
 3. Start chatting! Do regularly copy-paste the replies using Google Translate. Usually the conversation goes something like this
   * `您好`
   * [Copy-Paste the PCB product page's taobao link]
@@ -79,7 +82,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 ### Tips & Tricks
 1. Do check the local delivery charges
 2. For purchases above ¥100, you can get a discounted conversion rate through RateX
-3. Do watch out for bumped up offers! If the price seems off, just move on to another seller.
+3. Do watch out for bumped up offers! If the price seems suspicious, just move on to another seller.
 
 ### Claiming
 
