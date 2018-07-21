@@ -18,7 +18,7 @@ Table of contents:
 ## Pre-requisites
 This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software. We'll use EagleCAD in this guide but it should be similar to other PCB design software that can generate Gerber files (e.g. KiCAD). For Altium users, you can simply use the .PcbDoc file.
 
-We'll also need a taobao + alipay account and aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
+We'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
@@ -35,13 +35,13 @@ JCL PCB [website](https://jlcpcb.com/)
 
 ### PCB prototyping machine
 
-For prototyping, the advantages of PCB prototyping are less obvious. In general, if your project is not urgent and you plan to scale up, Chinese PCB house will be the better choice.
+For prototyping, the advantages of PCB prototyping are less obvious. In general, if longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
 
-|              | Chinese PCB house                 | FabLab's PCB prototyping machine (LPKF)  |
+|              | Chinese PCB house                 | PCB prototyping machine (LPKF)  |
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
-| Board Size   | 5* 5cm to 15 \* 15cm              |                                          |
-| Price        | ¥30 to ¥50 depending on board  |                                          |
+| Board Size   | 5 \* 5cm to 15 \* 15cm              |                                          |
+| Price        | ¥30 - ¥50 depending on board  |                                          |
 
 ### JLC PCB service
 
@@ -99,8 +99,6 @@ Basically, you need 2 screenshots.
 
 By now you should have all 
 ![]()
-
-2. 
 
 ## Improvements
 
