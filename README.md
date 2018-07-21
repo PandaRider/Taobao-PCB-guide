@@ -41,11 +41,11 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
 | Board Size   | 5* 5cm to 15 \* 15cm              |                                          |
-| Price        | 30 to 50 yuan depending on board  |                                          |
+| Price        | ¥30 to ¥50 depending on board  |                                          |
 
 ### JLC PCB service
 
-[JLC PCB service](https://jlcpcb.com/) is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs from JLC starts from $2 and is comparable to Taobao (includes delivery charge). The advantage of taobao is that you can not only buy PCBs but also cheap Integrated Circuits(ICs) as well. If you choose to make a PCB from JLC PCB, you will need to buy the rest of the components from mainstream electronics distributors.
+[JLC PCB service](https://jlcpcb.com/) is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs from JLC starts from USD$2 and is comparable to Taobao (includes delivery charge). The advantage of taobao is that you can not only buy PCBs but also cheap Integrated Circuits(ICs) as well. If you choose to make a PCB from JLC PCB, you will need to buy the rest of the components from mainstream electronics distributors.
 
 For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors.
 
@@ -78,7 +78,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 
 ### Pro-tips
 1. Do check the local delivery charges
-2. For purchases above 100 yuan, you can get a discounted conversion rate through RateX
+2. For purchases above ¥100, you can get a discounted conversion rate through RateX
 3. Do watch out for bumped up offers! If the price seems off, just move on to another seller.
 
 ### Claiming
