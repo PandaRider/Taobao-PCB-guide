@@ -5,7 +5,7 @@ A walkthrough guide on buying electronics online from China.
 Table of contents:
 * [Pre-requisites](#Pre-requisites)
   * [Resources](#Resources)
-* [Comparisons & alternatives](#Comparisons)
+* [Comparisons & Alternatives](#comparisons--alternatives)
 * [Taobao](#Taobao)
   * [Buying](#Buying)
   * [Tips & Tricks](#tips--tricks)
@@ -31,7 +31,7 @@ Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagl
 
 JCL PCB [website](https://jlcpcb.com/)
 
-## Comparisons
+## Comparisons & Alternatives
 
 ### PCB prototyping machine
 
