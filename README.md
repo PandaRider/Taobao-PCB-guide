@@ -8,7 +8,7 @@ Table of contents:
 * [Comparisons & alternatives](#Comparisons)
 * [Taobao](#Taobao)
   * [Buying](#Buying)
-  * [Tips & Tricks](#Tips & Tricks)
+  * [Tips & Tricks](#tips--tricks)
   * [Claiming](#Claiming)
 * [Improvements](#Improvements)
 * [Conclusion](#Conclusion) (w/credits)
@@ -41,7 +41,7 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
 | Board Size   | 5 \* 5cm to 15 \* 15cm            |                                          |
-| Price        | ¥30 - ¥50 depending on board  |                                          |
+| Price        | Starts from ¥30 depending on board|                                          |
 
 ### JLC PCB service
 
