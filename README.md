@@ -24,10 +24,12 @@ While some knowledge of Chinese is helpful, it is not necessary for the basic PC
 
 ### resources
 Taobao [account setup guide](https://www.youtube.com/watch?v=tBuuEMSsF58)
+
 Aliwangwang [download site](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
+
 Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic) and [layout guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
-[JCLPCB](https://jlcpcb.com/)
+JCL PCB [website](https://jlcpcb.com/)
 
 ## Comparisons
 
@@ -55,21 +57,21 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 ### Buying
 
 
-1. Search "PCB 打样" (making). In general, choose the shop with the lowest price per piece and highest number of reviews/verified purchases.
-![screenshot-2](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-1.png "Logo Title Text 1")
+1. Search `PCB 打样` (making). In general, choose the shop with the lowest price per piece and highest number of reviews/verified purchases.
+![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-1.png "Taobao Search 1")
 2. Click the small blue mascot at the most right side-bar with the phrase 和我联络. 
 ![screenshot-3](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-2.png "Logo Title Text 1")
 3. Start chatting! Do regularly copy-paste the replies using Google Translate. Usually the conversation goes something like this
-  1. "您好"
-  2. [Copy-Paste the PCB product page's taobao link]
-  3. 我想做[board-size-in-cm, number-of-layers]: 
+  * `您好`
+  * [Copy-Paste the PCB product page's taobao link]
+  * `我想做[board-size-in-cm, number-of-layers]`: 
   ![screenshot-1](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-1.png "Logo Title Text 1")
-  4. The PCB house will ask you to upload the PCB files. The screenshot shows Gerber files were uploaded but Altium .PcbDoc files are accepted as well: ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-2.png "Logo Title Text 1")
-  5. The PCB house will confirm with you the process and pricing. 
-  6. If you are satisfied, reply "确定" (confirm). 
-  7. He will then refer a link for you to pay through taobao. 
+  * The PCB house will ask you to upload the PCB files. The screenshot shows Gerber files were uploaded but Altium .PcbDoc files are accepted as well: ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-2.png "Logo Title Text 1")
+  * The PCB house will confirm with you the process and pricing. 
+  * If you are satisfied, reply `确定` (confirm). 
+  * He will then refer a link for you to pay through taobao. 
   ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-3.png "Logo Title Text 1")
-  6. Sometimes, you might need to adjust the quantity of the purchase at the link. 
+  * Sometimes, you might need to adjust the quantity of the purchase at the link. 
 4. Go to your cart. Ensure all the parts and components you want to buy appears in the right quantity
 
 5. Checking delivery 
@@ -85,9 +87,15 @@ Submission of claims depends on your institute's funding procedure. However, you
 
 Basically, you need 2 screenshots.
 
-1. Aliwangwang screenshot
+##### Aliwangwang screenshot
   1. Go to https://my.alipay.com/ and login
-  2. 
+  2. Scroll to the bottom and click `查看所有交易记录` (see all transactions)
+  3. You should see the screenshot below. Click on the any small "Hamburger" menu button.
+  ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ali-1.png "Hamburger button")
+  4. Take a screenshot of the entire web page. A sample screenshot is provided below.
+  5. Repeat steps 3 and 4 for the rest of the transactions.
+
+By now you should have all 
 ![]()
 
 2. 
