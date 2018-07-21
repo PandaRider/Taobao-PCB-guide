@@ -16,14 +16,15 @@ Table of contents:
 
 
 ## Pre-requisites
-This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software. We'll use EagleCAD in this guide but it should be similar to other PCB design software that can generate Gerber files like KiCAD. For Altium users, you can simply use the .PcbDoc file.
+This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software. We'll use EagleCAD in this guide but it should be similar to other PCB design software that can generate Gerber files (e.g. KiCAD). For Altium users, you can simply use the .PcbDoc file.
 
-We'll also need a taobao + alipay account and aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle)
+We'll also need a taobao + alipay account and aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
 ### resources
 Taobao [account setup guide](https://www.youtube.com/watch?v=tBuuEMSsF58)
+Aliwangwang [download site](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic) and [layout guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
 [JCLPCB](https://jlcpcb.com/)
@@ -42,9 +43,12 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 
 ### JLC PCB service
 
-JLC PCB service is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs are similar (includes delivery charge). The only advantage of taobao is that the price of ICs are much cheaper as compared to local electronic distributors (RS or element14). 
+[JLC PCB service](https://jlcpcb.com/) is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs from JLC starts from $2 and is comparable to Taobao (includes delivery charge). The advantage of taobao is that you can not only buy PCBs but also cheap Integrated Circuits(ICs) as well. If you choose to make a PCB from JLC PCB, you will need to buy the rest of the components from mainstream electronics distributors.
 
-For example, a common ATMega328p from Taobao cost [14 yuan]() (S$3) compared to [S$5]() from Element14. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, the quality assurance from mainstream electronic distributors should justify the margin.
+For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors.
+
+Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers a struggling in. (Want to contribute? Make a PR!) 
+<!-- Moreover, Taobao has way wider variety. -->
 
 ## Taobao
 
@@ -79,9 +83,11 @@ For example, a common ATMega328p from Taobao cost [14 yuan]() (S$3) compared to 
 
 Submission of claims depends on your institute's funding procedure. However, you will likely find the steps described here helpful as it passed the mother-of-all-red-tape.
 
-In short, you need 2 screenshots.
+Basically, you need 2 screenshots.
 
 1. Aliwangwang screenshot
+  1. Go to https://my.alipay.com/ and login
+  2. 
 ![]()
 
 2. 
@@ -91,7 +97,8 @@ In short, you need 2 screenshots.
 ## Conclusion
 
 ### Motivation
-In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, both of which made harder in Singapore with it's small size and advanced economy. 
+In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, hard to price competitively etc. The country I live in, Singapore, is often discouraged by our small market size. Yet, 
 
 It is a matter of making the best of what we have. 
+
 
