@@ -2,7 +2,6 @@ A walkthrough guide on buying electronics online from China.
 
 ## Table of Contents
 
-Table of contents:
 * [Pre-requisites](#Pre-requisites)
   * [Resources](#Resources)
 * [Comparisons & Alternatives](#comparisons--alternatives)
@@ -80,9 +79,10 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 5. Checking delivery 
 
 ### Tips & Tricks
-1. Do check the local delivery charges
-2. For purchases above ¥100, you can get a discounted conversion rate through RateX
-3. Do watch out for bumped up offers! If the price seems suspicious, just move on to another seller.
+1. Do not order your PCB from China during Chinese New Year holidays or Singles day (11 November)
+2. Do check the local delivery charges
+3. For purchases above ¥100, you can get a discounted conversion rate through RateX
+4. Do watch out for bumped up offers! If the price seems suspicious, just move on to another seller.
 
 ### Claiming
 
@@ -96,15 +96,21 @@ Basically, you need 2 screenshots.
   3. You should see the screenshot below. Click on the any small "Hamburger" menu button.
   ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ali-1.png "Hamburger button")
   4. Take a screenshot of the entire web page. A sample screenshot is provided below.
+    ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ali-2.png "Alipay screenshot")
   5. Repeat steps 3 and 4 for the rest of the transactions.
 
 #### 2. Your bank transaction
+  You need to download your e-statement from your online bank account. For DBS, the screenshot below shows the respective transactions. The particular transaction has the **same amount spent in Yuan**   ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/dbs-4.png "DBS screenshot"). Yo should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
 
 By now you should have all 
 ![]()
 
 ## Improvements
-
+If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR) 
+<!-- Why github? Can save Readme + collab.  -->
+<!-- Future guides: Multicolor pcb 
+https://hackaday.com/2018/02/26/successful-experiments-in-multicolor-circuit-boards/ 
+https://twitter.com/mrtwinkletwink  -->
 ## Conclusion
 
 ### Motivation
