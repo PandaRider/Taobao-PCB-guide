@@ -15,20 +15,20 @@ A walkthrough guide on buying electronics online from China.
 
 
 ## Pre-requisites
-This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software. We'll use EagleCAD in this guide but it should be similar to other PCB design software that can generate Gerber files (e.g. KiCAD). For Altium users, you can simply use the .PcbDoc file.
+This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files.
 
 We'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
 ### Resources
-Taobao [account setup guide](https://www.youtube.com/watch?v=tBuuEMSsF58)
+* Taobao [account setup guide](https://www.youtube.com/watch?v=tBuuEMSsF58)
 
-Aliwangwang [download site](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
+* Aliwangwang [download site](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
-Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic) and [layout guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
+* Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic) and [layout guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
 
-JCL PCB [website](https://jlcpcb.com/)
+* JCL PCB [website](https://jlcpcb.com/)
 
 ## Comparisons & Alternatives
 
@@ -48,41 +48,51 @@ For prototyping, the advantages of PCB prototyping are less obvious. In general,
 
 For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors.
 
-Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers a struggling in. (Want to contribute? Make a PR!) 
+Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers are struggling in. (Want to contribute? Make a PR!) 
 <!-- Moreover, Taobao has way wider variety. -->
 
 ## Taobao
 
 ### Buying
 
+1. Go to [Taobao](https://world.taobao.com/) and login
 
-1. Search `PCB 打样` (making). In general, choose the shop with the lowest price per piece and highest number of reviews/verified purchases.
+2. Search `PCB 打样` (making). In general, choose the shop with the lowest price per piece and highest number of reviews/verified purchases.
 
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-1.png "Taobao Search 1")
-2. Click the small blue mascot at the most right side-bar with the phrase "和我联络". This will open up Aliwangwang 
+3. Click the small blue mascot at the most right side-bar with the phrase "和我联络". This will open up Aliwangwang 
 
 ![screenshot-3](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-2.png "Taobao search 2")
 
-3. Start chatting! Do regularly copy-paste the replies using Google Translate. Usually the conversation goes something like this
+4. Start chatting! Do regularly copy-paste the replies using Google Translate. Usually the conversation goes something like this
   * `您好`
   * [Copy-Paste the PCB product page's taobao link]
   * `我想做[board-size-in-cm, number-of-layers]`: 
-  ![screenshot-1](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-1.png "Logo Title Text 1")
-  * The PCB house will ask you to upload the PCB files. The screenshot shows Gerber files were uploaded but Altium .PcbDoc files are accepted as well: ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-2.png "Logo Title Text 1")
+  ![screenshot-1](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-1.png "Taobao chat 1")
+  * The PCB house will ask you to upload the PCB files. The screenshot shows Gerber files were uploaded but Altium .PcbDoc files are accepted as well: ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-2.png "Taobao chat 2")
   * The PCB house will confirm with you the process and pricing. 
   * If you are satisfied, reply `确定` (confirm). 
   * He will then refer a link for you to pay through taobao. 
-  ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-3.png "Logo Title Text 1")
+  ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-3.png "Taobao chat 3")
   * Sometimes, you might need to adjust the quantity of the purchase at the link. 
-4. Go to your cart. Ensure all the parts and components you want to buy appears in the right quantity
+5. Go to your cart. Ensure all the parts and components you want to buy appears in the right quantity. Click `结算`.
+![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-1.png "Taobao select orders")
+
+6. Ensure the address is correct. You will see 2 options. The top option will directly deliver each item per package. The bottom option will consolidate your items first before delivering in a single package. Needless to say, select the bottom option. Click `提交订单`
+![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-2b.png "Taobao select delivery type")
+
+7. You will re-directed to Alipay to enter your credit card details. 
+
+8. And finally.
+![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-3.png "Taobao complete")
 
 5. Checking delivery 
 
 ### Tips & Tricks
-1. Do not order your PCB from China during Chinese New Year holidays or Singles day (11 November)
-2. Do check the local delivery charges
-3. For purchases above ¥100, you can get a discounted conversion rate through RateX
-4. Do watch out for bumped up offers! If the price seems suspicious, just move on to another seller.
+* Do not order your PCB from China during Chinese New Year holidays or Singles day (11 November)
+* Do check the local delivery charges
+* For purchases above ¥100, you can get a discounted conversion rate through RateX
+* Do watch out for bumped up offers! If the price seems suspicious, just move on to another seller.
 
 ### Claiming
 
@@ -99,11 +109,11 @@ Basically, you need 2 screenshots.
     ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/ali-2.png "Alipay screenshot")
   5. Repeat steps 3 and 4 for the rest of the transactions.
 
-#### 2. Your bank transaction
-  You need to download your e-statement from your online bank account. For DBS, the screenshot below shows the respective transactions. The particular transaction has the **same amount spent in Yuan**   ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/dbs-4.png "DBS screenshot"). Yo should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
+#### 2. Bank statement screenshot
+  You need to download your e-statement from your online bank account. For DBS, the screenshot below shows the relevant transactions. The particular transaction has the **same amount spent in Yuan**   ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/dbs-4.png "DBS screenshot").
+  
+  For You should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
 
-By now you should have all 
-![]()
 
 ## Improvements
 If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR) 
