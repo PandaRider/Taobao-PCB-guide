@@ -15,9 +15,9 @@ A walkthrough guide on buying electronics online from China.
 
 
 ## Pre-requisites
-This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files.
+This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files in step 4d.
 
-We'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
+You'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
@@ -34,19 +34,19 @@ While some knowledge of Chinese is helpful, it is not necessary for the basic PC
 
 ### PCB prototyping machine
 
-For prototyping, the advantages of PCB prototyping are less obvious. In general, if longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
+For prototyping, the advantages of PCB prototyping through a PCB house are less obvious. If longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
 
 |              | Chinese PCB house                 | PCB prototyping machine (LPKF)  |
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
-| Board Size   | 5 \* 5cm to 15 \* 15cm            |                                          |
-| Price        | Starts from ¥30 depending on board|                                          |
+| Board Size   | 5 \* 5cm to 15 \* 15cm            | 305mm \* 229mm                           |
+| Price        | Starts from ¥30 depending on board| Free?                                    |
 
 ### JLC PCB service
 
-[JLC PCB service](https://jlcpcb.com/) is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs from JLC starts from USD$2 and is comparable to Taobao (includes delivery charge). The advantage of taobao is that you can not only buy PCBs but also cheap Integrated Circuits(ICs) as well. If you choose to make a PCB from JLC PCB, you will need to buy the rest of the components from mainstream electronics distributors.
+[JLC PCB service](https://jlcpcb.com/) is an alternative for those who wants to skip the hassle of Taobao. The costs of PCBs from JLC starts from USD$2 and is comparable to Taobao (includes delivery charge). The advantage of Taobao is that you can not only buy PCBs but also cheap Integrated Circuits(ICs) as well. If you choose to make a PCB from JLC PCB, you will need to buy the rest of the components from mainstream electronics distributors.
 
-For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors.
+For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors with a quality guarantee.
 
 Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers are struggling in. (Want to contribute? Make a PR!) 
 <!-- Moreover, Taobao has way wider variety. -->
@@ -112,8 +112,9 @@ Basically, you need 2 screenshots.
 #### 2. Bank statement screenshot
   You need to download your e-statement from your online bank account. For DBS, the screenshot below shows the relevant transactions. The particular transaction has the **same amount spent in Yuan**   ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/dbs-4.png "DBS screenshot").
   
-  For You should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
+  You should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
 
+### Receiving
 
 ## Improvements
 If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR) 
@@ -124,8 +125,8 @@ https://twitter.com/mrtwinkletwink  -->
 ## Conclusion
 
 ### Motivation
-In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, hard to price competitively etc. The country I live in, Singapore, is often discouraged by our small market size. Yet, 
+In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, hard to price competitively, etc. All these disadvantages are multiplied when innovating in Singapore due to our small size. However, a hardware veteran once told me that Singapore does have geographical advantages as well. Our close proximity with China can not only reduce shipping fees but we also have a close relation to collaborate for mutual benefits.
 
-It is a matter of making the best of what we have. 
+
 
 
