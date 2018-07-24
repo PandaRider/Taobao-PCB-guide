@@ -125,8 +125,17 @@ https://twitter.com/mrtwinkletwink  -->
 ## Conclusion
 
 ### Motivation
-In case you have been living under a rock, hardware frequently gets a bad rep for being *hard*. It is hard to scale, hard to prototype cheaply, hard to price competitively, etc. All these disadvantages are multiplied when innovating in Singapore due to our small size. However, a hardware veteran once told me that Singapore does have geographical advantages as well. Our close proximity with China can not only reduce shipping fees but we also have a close relation to collaborate for mutual benefits.
 
+Why should you do hardware?
 
+In case you have been living under a rock, hardware frequently gets a bad rep for being [hard](https://www.wired.com/story/why-do-startups-fail-because-hardware-is-hard/). It is hard to scale, hard to prototype cheaply, hard to price competitively, etc. All these disadvantages are multiplied when innovating in Singapore due to our small size. That said, we do have a couple of advantages. Our close proximity lowers delivery costs and lead time. A common language and heritage also makes it easier to collaborate. It has never been a good time and place to do good hardware.
 
+How do you do good hardware?
 
+Good hardware takes time. Take the ubiquitous pillbox school project. With all the smart sensors and wireless connectivity features, have you ever seen one that looks friendly to use? Almost always, the Arduino *Unos* and *Nanos* are larger than the box itself. In an essay titled [Hardware, Less Hard](https://blog.ycombinator.com/hardware-less-hard/), it highlighted many considerations like a beautiful design and idea validation that should be done before the project is executed. After the project is executed, you might even consider scaling it up. However, the modus operandi of a school project is from week 1 to week 12 thus, there is little time to do this except once, at last, for the final year project. 
+
+What has PCB design got to do with hardware innovation?
+
+It is cheap to do and (with experience) is relatively fast to prototype. It gives you room to include design aesthetics in your product. It opens the possibility to scale and multiply. It is the hope of this guide that readers consider scaling their ideas... however hard, into goood hardware.
+
+<!-- Oh wow, I did not realize I just did a Why,How,What presentation haha -->
