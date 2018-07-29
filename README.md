@@ -9,13 +9,13 @@ A walkthrough guide on buying electronics online from China.
   * [Buying](#Buying)
   * [Tips & Tricks](#tips--tricks)
   * [Claiming](#Claiming)
-* [Improvements](#Improvements)
+* [Improvements & Feedback](#Improvements--feedback)
 * [Conclusion](#Conclusion) (w/credits)
   * [Motivation](#Motivation)
 
 
 ## Pre-requisites
-This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files in step 4d.
+This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. If you wish to learn PCB design or need a refresh, the Sparkfun Eagle guides below provide a concise introduction. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files in step 4d.
 
 You'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
 
@@ -49,7 +49,7 @@ For prototyping, the advantages of PCB prototyping through a PCB house are less 
 For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors with a quality guarantee.
 
 Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers are struggling in. (Want to contribute? Make a PR!) 
-<!-- Moreover, Taobao has way wider variety. -->
+<!-- Moreover, Taobao has way wider variety. :wink: -->
 
 ## Taobao
 
@@ -116,8 +116,10 @@ Basically, you need 2 screenshots.
 
 ### Receiving
 
-## Improvements
-If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR) 
+## Improvements & Feedback
+If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR). 
+
+For questions and clarifications, do [open an issue](https://github.com/PandaRider/Taobao-PCB-guide/issues/new) and I'll answer there. 
 <!-- Why github? Can save Readme + collab.  -->
 <!-- Future guides: Multicolor pcb 
 https://hackaday.com/2018/02/26/successful-experiments-in-multicolor-circuit-boards/ 
@@ -126,7 +128,7 @@ https://twitter.com/mrtwinkletwink  -->
 
 ### Motivation
 
-Why should you do hardware?
+<!-- Why should you do hardware?
 
 In case you have been living under a rock, hardware frequently gets a bad rep for being [hard](https://www.wired.com/story/why-do-startups-fail-because-hardware-is-hard/). It is hard to scale, hard to prototype cheaply, hard to price competitively, etc. All these disadvantages are multiplied when innovating in Singapore due to our small size. That said, we do have a couple of advantages. Our close proximity lowers delivery costs and lead time. A common language and heritage also makes it easier to collaborate. It has never been a good time and place to do good hardware.
 
@@ -136,6 +138,17 @@ Good hardware takes time. Take the ubiquitous pillbox school project. With all t
 
 What has PCB design got to do with hardware innovation?
 
-It is cheap to do and (with experience) is relatively fast to prototype. It gives you room to include design aesthetics in your product. It opens the possibility to scale and multiply. It is the hope of this guide that readers consider scaling their ideas... however hard, into goood hardware.
+It is cheap to do and (with experience) is relatively fast to prototype. It gives you room to include design aesthetics in your product. It opens the possibility to scale and multiply. It is the hope of this guide that readers consider scaling their ideas... however hard, into goood hardware. -->
 
 <!-- Oh wow, I did not realize I just did a Why,How,What presentation haha -->
+
+Is there more to engineering school than just tests and labs? Yes! There are projects too! However, school projects often just seems like the same old labs but in groups and scoped into a topic. For example, in a Digital Systems [lab](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/), each of us learns how to build a pong game FSM with a FPGA. In a DS project, we form a team to make a [super pong game](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/projects/group_6/)? We use the word “lab” to imply it is experimental. A “project” can be more than that and a project only goes beyond the experimental when it is scalable.
+
+Thinking about scalability makes you a better engineer. 
++ Wiser component choices: Be liberated from general microcontrollers. There's a saying in engineering that a system that is agnostic to everything... is optimized for nothing. For example, do you really need that many pins for your [wearable technology](https://www.adafruit.com/product/659) or would a low power SOC be better suited?
++ Better design: Design is forced from an [afterthought](https://blog.ycombinator.com/hardware-less-hard/) to a deliberate design intent. Considerations as simple as where to place mounting holes in your PCB becomes a make-or-break factor in your overall product design.
++ Understanding technical debt: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
+<!-- The software version of technical debt is temporary code patches -->
+
+Admittedly, learning about scalibility isn't easy and takes time. But the problems you'll be exposed makes it enriching and worthy to be taught in engineering schools.
+
