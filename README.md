@@ -86,7 +86,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 8. And finally.
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-3.png "Taobao complete")
 
-5. Checking delivery 
+<!-- 9. Checking delivery <To-be-added> -->
 
 ### Tips & Tricks
 * Do not order your PCB from China during Chinese New Year holidays or Singles day (11 November)
@@ -117,7 +117,7 @@ Basically, you need 2 screenshots.
 ### Receiving
 
 ## Improvements & Feedback
-If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR) :sweat_smile:. 
+If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR :sweat_smile:). 
 
 For questions and clarifications, do [open an issue](https://github.com/PandaRider/Taobao-PCB-guide/issues/new) and I'll answer there. 
 <!-- Why github? Can save Readme + collab.  -->
