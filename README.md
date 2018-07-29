@@ -9,9 +9,10 @@ A walkthrough guide on buying electronics online from China.
   * [Buying](#Buying)
   * [Tips & Tricks](#tips--tricks)
   * [Claiming](#Claiming)
-* [Improvements & Feedback](#Improvements--feedback)
+* [Improvements & Feedback](#improvements--feedback)
 * [Conclusion](#Conclusion) (w/credits)
   * [Motivation](#Motivation)
+  * [Credits](#Credits)
 
 
 ## Pre-requisites
@@ -23,11 +24,8 @@ While some knowledge of Chinese is helpful, it is not necessary for the basic PC
 
 ### Resources
 * Taobao [account setup guide](https://www.youtube.com/watch?v=tBuuEMSsF58)
-
 * Aliwangwang [download site](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
-
 * Sparkfun Eagle [schematic guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic) and [layout guide](https://learn.sparkfun.com/tutorials/using-eagle-schematic)
-
 * JCL PCB [website](https://jlcpcb.com/)
 
 ## Comparisons & Alternatives
@@ -48,7 +46,7 @@ For prototyping, the advantages of PCB prototyping through a PCB house are less 
 
 For example, a common ATMega328p from Taobao cost [¥4.80](https://item.taobao.com/item.htm?spm=a230r.1.14.27.26ec255cQJekQx&id=13854666988&ns=1) (S$0.97) compared to [S$3.17](http://sg.element14.com/microchip/atmega328p-au/microcontroller-mcu-8-bit-atmega/dp/1715486) from Element14. The downside of Taobao's relatively lower price is the extra delivery charges and longer delivery time. This price difference is not applicable to all ICs! Also, if you intend to commercialize/mass produce your electronic product, it is recommended to purchase your electronics from mainstream electronics distributors with a quality guarantee.
 
-Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers are struggling in. (Want to contribute? Make a PR!) 
+Steps for JLC PCB service are not described here as (in my opinion) it's more beneficial to write a guide in a topic readers are struggling in. (PR contributions are much appreciated though!) 
 <!-- Moreover, Taobao has way wider variety. :wink: -->
 
 ## Taobao
@@ -145,7 +143,7 @@ It is cheap to do and (with experience) is relatively fast to prototype. It give
 Is there more to engineering school than just tests and labs? Yes! There are projects too! However, school projects often just seems like the same old labs but in groups and scoped into a topic. For example, in a Digital Systems [lab](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/), each of us learns how to build a pong game FSM with a FPGA. In a DS project, we form a team to make a [super pong game](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/projects/group_6/)? We use the word “lab” to imply it is experimental. A “project” can be more than that and a project only goes beyond the experimental when it is scalable.
 
 Thinking about scalability makes you a better engineer. 
-+ **Wiser component choices**: Be liberated from general microcontrollers. There's a saying in engineering that a system that is agnostic to everything... is optimized for nothing. For example, do you really need that many pins for your [wearable technology](https://www.adafruit.com/product/659) or would a low power SOC be better suited?
++ **Wiser component choices**: Be liberated from general microcontrollers. There's a saying in engineering that a system that is agnostic to everything... is optimized for nothing. For example, do you really need that many pins for your [wearable technology](https://www.adafruit.com/product/659) or would a low power SoC be better suited?
 + **Better design**: Design is forced from an [afterthought](https://blog.ycombinator.com/hardware-less-hard/) to a deliberate design intent. Considerations as simple as where to place mounting holes in your PCB becomes a make-or-break factor in your overall product design.
 + **Understanding technical debt**: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
 <!-- The software version of technical debt is temporary code patches -->
