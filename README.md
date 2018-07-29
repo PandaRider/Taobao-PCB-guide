@@ -117,7 +117,7 @@ Basically, you need 2 screenshots.
 ### Receiving
 
 ## Improvements & Feedback
-If you’ve spotted any mistake in this guide or would like to improve with your own section, do contact me (or do a PR). 
+If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR) :sweat_smile:. 
 
 For questions and clarifications, do [open an issue](https://github.com/PandaRider/Taobao-PCB-guide/issues/new) and I'll answer there. 
 <!-- Why github? Can save Readme + collab.  -->
@@ -145,9 +145,9 @@ It is cheap to do and (with experience) is relatively fast to prototype. It give
 Is there more to engineering school than just tests and labs? Yes! There are projects too! However, school projects often just seems like the same old labs but in groups and scoped into a topic. For example, in a Digital Systems [lab](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/labs/), each of us learns how to build a pong game FSM with a FPGA. In a DS project, we form a team to make a [super pong game](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/projects/group_6/)? We use the word “lab” to imply it is experimental. A “project” can be more than that and a project only goes beyond the experimental when it is scalable.
 
 Thinking about scalability makes you a better engineer. 
-+ Wiser component choices: Be liberated from general microcontrollers. There's a saying in engineering that a system that is agnostic to everything... is optimized for nothing. For example, do you really need that many pins for your [wearable technology](https://www.adafruit.com/product/659) or would a low power SOC be better suited?
-+ Better design: Design is forced from an [afterthought](https://blog.ycombinator.com/hardware-less-hard/) to a deliberate design intent. Considerations as simple as where to place mounting holes in your PCB becomes a make-or-break factor in your overall product design.
-+ Understanding technical debt: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
++ **Wiser component choices**: Be liberated from general microcontrollers. There's a saying in engineering that a system that is agnostic to everything... is optimized for nothing. For example, do you really need that many pins for your [wearable technology](https://www.adafruit.com/product/659) or would a low power SOC be better suited?
++ **Better design**: Design is forced from an [afterthought](https://blog.ycombinator.com/hardware-less-hard/) to a deliberate design intent. Considerations as simple as where to place mounting holes in your PCB becomes a make-or-break factor in your overall product design.
++ **Understanding technical debt**: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
 <!-- The software version of technical debt is temporary code patches -->
 
 Admittedly, learning about scalibility isn't easy and takes time. But the problems you'll be exposed makes it enriching and worthy to be taught in engineering schools.
