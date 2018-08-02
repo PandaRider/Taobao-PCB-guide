@@ -114,7 +114,7 @@ Basically, you need 2 screenshots.
 
 ### Receiving
 And finally... 
-[screenshot-package](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/package.jpg "Package screenshot")
+[screenshot-package](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/package.png "Package screenshot")
 
 
 ## Improvements & Feedback
