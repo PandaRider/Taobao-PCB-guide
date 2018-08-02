@@ -112,8 +112,10 @@ Basically, you need 2 screenshots.
   
   You should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
 
-<!-- ### Receiving -->
-<!-- Put screenshot of package here -->
+### Receiving
+And finally... 
+[screenshot-package](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/package.jpg "Package screenshot")
+
 
 ## Improvements & Feedback
 If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR :sweat_smile:). 
