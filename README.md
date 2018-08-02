@@ -18,7 +18,7 @@ A walkthrough guide on buying electronics online from China.
 ## Prerequisites
 This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. If you wish to learn PCB design or need a refresher, the Sparkfun Eagle guides below provide a concise introduction. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files in step 4d.
 
-You'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#jlc-pcb-service) if this is too much of a hassle.:satisfied:) 
+You'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#jlc-pcb-service) if this is too much of a hassle :satisfied:.) 
 
 While some knowledge of Chinese is helpful, it is not necessary for the basic PCB designs in this guide. 
 
@@ -38,7 +38,7 @@ For prototyping, the advantages of PCB prototyping through a PCB house are less 
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
 | Board Size   | 5 \* 5cm to 15 \* 15cm            | 305mm \* 229mm                           |
-| Price        | Starts from ¥30 depending on board| ~~Prepaid w/school fees~~ Free?          |
+| Price        | Starts from ¥30 depending on board| ~~Prepaid w/school fees~~ Free           |
 
 ### JLC PCB service
 
@@ -149,5 +149,5 @@ Thinking about scalability makes you a better engineer.
 + **Understanding technical debt**: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
 <!-- The software version of technical debt is temporary code patches -->
 
-Admittedly, learning about scalibility isn't easy and takes time. But the problems you'll be exposed makes it enriching and worthy to be taught in engineering schools.
+Admittedly, learning about scalibility isn't easy and takes time. But the problems you'll be exposed makes it enriching and different from what is taught from engineering schools :muscle:.
 
