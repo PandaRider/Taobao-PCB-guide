@@ -15,7 +15,7 @@ A walkthrough guide on buying electronics online from China.
   * [Credits](#Credits)
 
 
-## Pre-requisites
+## Prerequisites
 This guide assumes basic knowledge of Printed Circuit Board (PCB) design in any PCB design software including EagleCAD, KiCAD or any .gerber generating software. If you wish to learn PCB design or need a refresh, the Sparkfun Eagle guides below provide a concise introduction. For Altium users, you may directly send your .PcbDoc files instead of the .gerber files in step 4d.
 
 You'll also need a Taobao + Alipay account and Aliwangwang installed. (Alternatively, you might want to try [JLC PCB](#JLC PCB service) if this is too much of a hassle.) 
@@ -112,7 +112,8 @@ Basically, you need 2 screenshots.
   
   You should not use the dates as a reference to any particular transaction as the timestamps from alipay and your bank is often not synchronized
 
-### Receiving
+<!-- ### Receiving -->
+<!-- Put screenshot of package here -->
 
 ## Improvements & Feedback
 If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR :sweat_smile:). 
