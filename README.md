@@ -32,13 +32,14 @@ While some knowledge of Chinese is helpful, it is not necessary for the basic PC
 
 ### PCB prototyping machine
 
-For prototyping, the advantages of PCB prototyping through a PCB house are less obvious. If longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
+For prototyping, the advantages of PCB prototyping through a PCB house are less obvious. We often assume that going through a PCB fabrication house is for commercialisation only and a PCB prototyping machine does a good enough job. If longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
 
 |              | Chinese PCB house                 | PCB prototyping machine (LPKF)  |
 | ------------ |:---------------------------------:| :---------------------------------------:|
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
 | Board Size   | 5 \* 5cm to 15 \* 15cm            | 305mm \* 229mm                           |
 | Price        | Starts from ¥30 depending on board| ~~Prepaid w/school fees~~ Free           |
+| Design       | Fully open source (I.e. Adafruit eagle library) | PCB software defaults      |
 
 ### JLC PCB service
 
@@ -62,7 +63,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 
 ![screenshot-3](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-search-2.png "Taobao search 2")
 
-4. Start chatting! Do regularly copy-paste the replies using Google Translate. Usually the conversation goes something like this
+4. Start chatting! Do regularly copy-paste the replies using Google Translate. From my experience, the sellers are really friendly (maybe even friendlier than Carousell!) Usually the conversation goes something like this:
   * `您好`
   * [Copy-Paste the PCB product page's taobao link]
   * `我想做[board-size-in-cm, number-of-layers]`: 
@@ -76,7 +77,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
 5. Go to your cart. Ensure all the parts and components you want to buy appears in the right quantity. Click `结算`.
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-1.png "Taobao select orders")
 
-6. Ensure the address is correct. You will see 2 options. The top option will directly deliver each item per package. The bottom option will consolidate your items first before delivering in a single package. Needless to say, select the bottom option. Click `提交订单`
+6. Ensure the address is correct. You will see 2 options. The top option will directly deliver each item per package. The bottom option will consolidate your items first before delivering in a single package. In most cases, you should select the bottom option. Click `提交订单`
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-2b.png "Taobao select delivery type")
 
 7. You will re-directed to Alipay to enter your credit card details. 
