@@ -39,7 +39,7 @@ For prototyping, the advantages of PCB prototyping through a PCB house are less 
 | Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
 | Board Size   | 5 \* 5cm to 15 \* 15cm            | 305mm \* 229mm                           |
 | Price        | Starts from ¥30 depending on board| ~~Prepaid w/school fees~~ Free           |
-| Design       | Fully open source (I.e. Adafruit eagle library) | PCB software defaults      |
+| Design       | Fully open source (I.e. Adafruit Eagle library) | PCB software defaults      |
 
 ### JLC PCB service
 
@@ -72,7 +72,7 @@ Steps for JLC PCB service are not described here as (in my opinion) it's more be
   * The PCB house will confirm with you the process and pricing. 
   * If you are satisfied, reply `确定` (confirm). 
   * He will then refer a link for you to pay through taobao. 
-  ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-3.png "Taobao chat 3")
+  ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-chat-3.png "Taobao chat 3")
   * Sometimes, you might need to adjust the quantity of the purchase at the link. 
 5. Go to your cart. Ensure all the parts and components you want to buy appears in the right quantity. Click `结算`.
 ![screenshot](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/tb-buy-1.png "Taobao select orders")
