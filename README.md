@@ -161,9 +161,11 @@ Admittedly, learning about scalability isn't easy and takes time. But the proble
 ### Call for action
 If you are looking for ideas for making your next electronic product startup or want to hone your skill in hardware scalability... here are some interesting projects that showcase some things you can only do with PCB design.
 
-[ESP8266 IoT-enabled Christmas Ornaments](https://www.youtube.com/watch?v=PoPzBuoFOps)
-[PCB motor](https://pcbmotor.com/)
-Electronics marketplace like [Tindie](https://www.tindie.com/) or [Crowdsupply](https://www.crowdsupply.com/)
+* [ESP8266 IoT-enabled Christmas Ornaments](https://www.youtube.com/watch?v=PoPzBuoFOps)
+
+* [PCB motor](https://pcbmotor.com/)
+
+* Electronics marketplace like [Tindie](https://www.tindie.com/) or [Crowdsupply](https://www.crowdsupply.com/)
 
 <!-- ### Credits
 
