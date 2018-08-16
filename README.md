@@ -12,6 +12,7 @@ A walkthrough guide on buying electronics online from China.
 * [Improvements & Feedback](#improvements--feedback)
 * [Conclusion](#Conclusion) (w/credits)
   * [Motivation](#Motivation)
+  * [Call for action](#call--for--action)
   * [Credits](#Credits)
 
 
@@ -34,12 +35,12 @@ While some knowledge of Chinese is helpful, it is not necessary for the basic PC
 
 For prototyping, the advantages of PCB prototyping through a PCB house are less obvious. We often assume that going through a PCB fabrication house is for commercialisation only and a PCB prototyping machine does a good enough job. If longer prototype iteration periods is not a problem and you plan to scale up in the future, PCB house will be the better choice.
 
-|              | Chinese PCB house                 | PCB prototyping machine (LPKF)  |
-| ------------ |:---------------------------------:| :---------------------------------------:|
-| Speed        | Payment-to-package is ~1.5weeks   | booking-to-board is ~1 afternoon         |
-| Board Size   | 5 \* 5cm to 15 \* 15cm            | 305mm \* 229mm                           |
-| Price        | Starts from ¥30 depending on board| ~~Prepaid w/school fees~~ Free           |
-| Design       | Fully open source (I.e. Adafruit Eagle library) | PCB software defaults      |
+|              | Chinese PCB house                               | PCB prototyping machine (LPKF)   |
+| ------------ |:-----------------------------------------------:| :-------------------------------:|
+| Speed        | Payment-to-package is ~1.5weeks                 | booking-to-board is ~1 afternoon |
+| Board Size   | 5 \* 5cm to 15 \* 15cm                          | 305mm \* 229mm                   |
+| Price        | Starts from ¥30 depending on board              | ~~Prepaid w/school fees~~ Free   |
+| Design       | Fully open source (I.e. Adafruit Eagle library) | PCB software defaults            |
 
 ### JLC PCB service
 
@@ -117,6 +118,9 @@ Basically, you need 2 screenshots.
 And finally...   
 ![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/package.png "Package screenshot")
 
+A simple LED keychain I've designed (with some PCB art).
+![screenshot-](https://github.com/PandaRider/Taobao-PCB-guide/raw/master/screenshots/baymax-pcb.png "PCB screenshot")
+
 
 ## Improvements & Feedback
 If you’ve spotted any mistake in this guide or would like to improve with your own section, do [contact me](edmund_pang@mymail.sutd.edu.sg) (or do a PR :sweat_smile:). 
@@ -152,5 +156,15 @@ Thinking about scalability makes you a better engineer.
 + **Understanding technical debt**: Because in the real world, there needs to be a balance between [innovation and business](https://hackaday.com/2017/02/27/the-tiko-printer-what-happens-when-you-innovate-too-much/). 
 <!-- The software version of technical debt is temporary code patches -->
 
-Admittedly, learning about scalibility isn't easy and takes time. But the problems you'll be exposed makes it enriching and different from what is taught from engineering schools :muscle:.
+Admittedly, learning about scalability isn't easy and takes time. But the problems you'll be exposed makes it enriching and different from what is taught from engineering schools :muscle:.
 
+### Call for action
+If you are looking for ideas for making your next electronic product startup or want to hone your skill in hardware scalability... here are some interesting projects that showcase some things you can only do with PCB design.
+
+[ESP8266 IoT-enabled Christmas Ornaments](https://www.youtube.com/watch?v=PoPzBuoFOps)
+[PCB motor](https://pcbmotor.com/)
+Electronics marketplace like [Tindie](https://www.tindie.com/) or [Crowdsupply](https://www.crowdsupply.com/)
+
+<!-- ### Credits
+
+Special thanks to my mentor for taking the time to teach and guide me on all things hardware. Thanks to Byron, Shao Wei, Song Shan for feedback on drafts.  -->
