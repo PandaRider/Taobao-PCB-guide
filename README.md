@@ -12,7 +12,7 @@ A walkthrough guide on buying electronics online from China.
 * [Improvements & Feedback](#improvements--feedback)
 * [Conclusion](#Conclusion) (w/credits)
   * [Motivation](#Motivation)
-  * [Call for action](#call--for--action)
+  * [Call for action](#call-for-action)
   * [Credits](#Credits)
 
 
@@ -167,6 +167,6 @@ If you are looking for ideas for making your next electronic product startup or 
 
 * Electronics marketplace like [Tindie](https://www.tindie.com/) or [Crowdsupply](https://www.crowdsupply.com/)
 
-<!-- ### Credits
+### Credits
 
-Special thanks to my mentor for taking the time to teach and guide me on all things hardware. Thanks to Byron, Shao Wei, Song Shan for feedback on drafts.  -->
+Special thanks to my mentor for taking the time to teach and guide me on all things hardware. Many thanks to Byron and Shao Wei for feedback on drafts. 
